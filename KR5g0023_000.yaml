@@ -1,0 +1,24 @@
+canonical_identifier: bkk:krp/KR5g0023/krp/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 高上大洞文昌司祿紫陽寶籙
+  edition:
+    short: krp
+  base_edition: HFL
+  date: '2015-08-29 02:25:37.263224'
+  source:
+    repository: kanripo
+    path: KR5g0023/KR5g0023_000.txt
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+hash: sha256:9740105e610e54a005e6d62e1729d37969d9fcc901f9e3ac767bb71313b5c38d
